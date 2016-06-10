@@ -1,3 +1,3 @@
 # DesignAgency
 
-This is a deisgn agency website.It is simple and great!
+This is a design agency website.It is simple and great!
